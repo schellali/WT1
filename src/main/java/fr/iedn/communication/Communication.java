@@ -2,10 +2,11 @@ package fr.iedn.communication;
 
 public class Communication{
 /**
- Comments
+ Comments update
  */
     public static void main (String[] args){
-        System.out.println("Hello !");
+        String msg = "Hello !";
+        System.out.println(msg);
     }
 
 }
